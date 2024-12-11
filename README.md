@@ -1,4 +1,4 @@
-**##COVID-19 Analysis Dashboard**
+**COVID-19 Analysis Dashboard**
 
 ---
 This Power BI dashboard provides insightful visualizations and analysis of COVID-19 data across countries, continents, and an overall final analysis. The project is designed to help users understand the global impact of the pandemic and track trends in different regions.
